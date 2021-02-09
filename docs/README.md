@@ -6,7 +6,7 @@ description: 云原生社区 OAM SIG
 
 欢迎来到云原生社区 OAM SIG（特别兴趣小组）！
 
-### 加入 Istio SIG
+### 加入 OAM SIG
 
 请填写[申请表](https://wj.qq.com/s2/7438465/6bd6)加入微信交流群。
 
