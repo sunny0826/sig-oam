@@ -1,3 +1,9 @@
 # Table of contents
 
-* [欢迎](README.md)
+* [OAM SIG](README.md)
+
+## 资料
+
+* [文章](articles/README.md)
+* [视频](video/README.md)
+* [社区会议纪要](COMMUNITY.md)
