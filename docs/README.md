@@ -13,7 +13,7 @@ OAM SIG 是[云原生社区](https://cloudnative.to/)下的 OAM SIG(Special Inte
 * [kubevela](https://kubevela.io) - 开箱即用的OAM开源实现
 * [Gitter 聊天室](https://gitter.im/oam-dev/community)
 * [Slack 聊天室](https://cloud-native.slack.com/archives/C01BLQ3HTJA)
-* [钉钉群号](): 23310022。
+* 钉钉群号: 23310022。
 * 微信群: 填写[申请表](https://wj.qq.com/s2/7438465/6bd6)加入微信交流群。
 * Mailing List: https://groups.google.com/forum/#!forum/oam-dev
 
