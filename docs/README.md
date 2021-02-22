@@ -25,3 +25,8 @@ OAM SIG 是[云原生社区](https://cloudnative.to/)下的 OAM SIG(Special Inte
 
 有关于 OAM 的问题请[提交 Issue](https://github.com/cloudnativeto/sig-oam/issues/new) 后将链接发到微信群中讨论。
 
+## 联系
+
+**负责人**
+
+- [郭旭东](https://github.com/sunny0826)
