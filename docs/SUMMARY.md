@@ -1,8 +1,6 @@
-# Table of contents
+# 目录
 
-* [OAM SIG](README.md)
-
-## 资料
+* [OAM SIG 介绍](README.md)
 
 * [活动](event/README.md)
 * [文章](articles/README.md)
