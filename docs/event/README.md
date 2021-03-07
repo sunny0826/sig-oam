@@ -4,10 +4,12 @@ description: 云原生社区 OAM SIG 活动
 
 # 活动
 
-## OAM SIG 网络研讨会 - GitOps 及 OAM 的落地实践
+## 【网络研讨会】GitOps 及 OAM 的落地实践
 
-时间：2021-03-06
-嘉宾：张磊@阿里云
-主持：郭旭东
+![](image/event-gitops&oam.png)
 
-<iframe src="//player.bilibili.com/player.html?aid=929548054&bvid=BV1eK4y1D78U&cid=306740502&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+- 时间：2021-03-06 10:30-11:30
+- 主持：郭旭东
+- 嘉宾：张磊@阿里云
+
+回放地址：https://www.bilibili.com/video/BV1eK4y1D78U
