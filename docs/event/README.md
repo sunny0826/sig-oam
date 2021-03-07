@@ -13,5 +13,4 @@ description: 云原生社区 OAM SIG 活动
 - 嘉宾：张磊@阿里云
 
 >回放地址：https://www.bilibili.com/video/BV1eK4y1D78U
-
 >PPT 下载地址：[GitOps与OAM](https://raw.githubusercontent.com/cloudnativeto/sig-oam/main/docs/event/resource/GitOps%E4%B8%8EOAM.pdf)
