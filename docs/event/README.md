@@ -12,4 +12,4 @@ description: 云原生社区 OAM SIG 活动
 - 主持：郭旭东
 - 嘉宾：张磊@阿里云
 
-回放地址：https://www.bilibili.com/video/BV1eK4y1D78U
+>回放地址：https://www.bilibili.com/video/BV1eK4y1D78U
