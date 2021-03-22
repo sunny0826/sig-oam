@@ -2,7 +2,7 @@
 description: 云原生社区 OAM SIG
 ---
 
-# 欢迎加入云原生社区 OAM SIG
+## 欢迎加入云原生社区 OAM SIG
 
 ![oam](img/oam.svg)
 
