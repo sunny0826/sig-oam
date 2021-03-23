@@ -10,7 +10,7 @@ OAM 是阿里巴巴联合微软推出的一款用于构建和交付云原生应�
 
 云原生社区成立 OAM SIG 的目的是为给在 OAM 领域志同道合的人提供一个共同学习和交流的平台。对 OAM 感兴趣的同学，可以在 OAM SIG 中交流 OAM 相关的落地实践、源码研究、社区贡献等。
 
-云原生社区 OAM SIG 主页：https://i.cloudnative.to/oam/（点击阅读原文可跳转到该页面），该页面使用 GitBook 组织，你可以访问 https://github.com/cloudnativeto/sig-oam 参与贡献。加入 OAM SIG 还可以参与更多社区的线上线下活动。
+云原生社区 OAM SIG 主页：https://i.cloudnative.to/oam/ （点击阅读原文可跳转到该页面），该页面使用 GitBook 组织，你可以访问 https://github.com/cloudnativeto/sig-oam 参与贡献。加入 OAM SIG 还可以参与更多社区的线上线下活动。
 
 云原生社区各个 SIG 的讨论组基于微信组织，群内大牛云集，汇集了 OAM 核心开发成员、国内率先实践 OAM 规范的团队成员等。为了保障 SIG 讨论群的质量，入群需要在申请表中实名登记。扫描下面的二维码加入云原生社区 OAM SIG，了解更多 OAM 实践案例，并与 OAM 专家、爱好者们共同交流。
 
