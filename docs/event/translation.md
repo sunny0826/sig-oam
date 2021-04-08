@@ -10,14 +10,14 @@ KubeVela v1.0 启用了新的官网架构和文档维护方式，新增功能包
 
 ## 活动流程
 
-本次活动主要在 [kubevela.io](https://github.com/oam-dev/kubevela.io) repo 下进行，活动开始前，每一篇需要翻译的文档都会创建相应 issue，参与活动的人领取该 issue 以进行翻译。
+本次活动主要在 [kubevela.io](https://github.com/oam-dev/kubevela.io) repo 下进行，报名参与和认领任务都在 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1drZwWF2FWPCbb_HvofzXhZLjtSuhQ-dZgFIPy1tkiYM/edit#gid=2054087633) 中（**请务必在表格中登记信息**）。
 
 ### 开始翻译
 
-![翻译流程](https://tva2.sinaimg.cn/large/ad5fbf65ly1gpc9mc2kg9j208x09hdgi.jpg)
+![翻译流程](https://tva3.sinaimg.cn/large/ad5fbf65ly1gpcbwnnslzj20iy0k20uh.jpg)
 
 参与翻译活动的基本流程如下：
-- 任务领取：在本仓库的 issue 页面领取 `status/pending` 状态任务；
+- 任务领取：在 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1drZwWF2FWPCbb_HvofzXhZLjtSuhQ-dZgFIPy1tkiYM/edit#gid=2054087633) 登记并认领任务；
 - 提交：参与人员提交 PR 等待 review；
 - 审阅：maintainer 审阅 PR；
 - 终审： 对 review 后的内容进行最后确认；
@@ -41,12 +41,11 @@ KubeVela v1.0 启用了新的官网架构和文档维护方式，新增功能包
 
 **Step1：任务浏览**
 
-访问任务列表，会看到待领取任务（默认 Open 状态，label 中带有 `status/pending` 字样）。通常情况下，您只需要关心状态。
+在 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1drZwWF2FWPCbb_HvofzXhZLjtSuhQ-dZgFIPy1tkiYM/edit#gid=2054087633) 登记并浏览有哪些任务可以认领。
 
 **Step2：任务领取**
 
-找到未经认领的任务（`status/pending` 标签），在 issue 中回复 `/accept` maintainer 会将任务分配给你，以 `Assignees` 为准。
-注意：为保证质量，同一译者只能同时认领三个 Issue，完成后才可继续认领。
+在 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1drZwWF2FWPCbb_HvofzXhZLjtSuhQ-dZgFIPy1tkiYM/edit#gid=2054087633) 表格中编辑并认领任务。注意：为保证质量，同一译者只能同时认领三个任务，完成后才可继续认领。
 
 **Step3：本地构建和预览**
 
