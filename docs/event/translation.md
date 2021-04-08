@@ -81,4 +81,4 @@ Docusaurus website is running at: http://localhost:3000/zh/
 
 **Step6：任务完成**
 
-翻译合格的文章将会 merge 到 [[kubevela.io](https://github.com/oam-dev/kubevela.io) 的 master 分支进行发布。
+翻译合格的文章将会 merge 到 [kubevela.io](https://github.com/oam-dev/kubevela.io) 的 master 分支进行发布。
