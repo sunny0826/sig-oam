@@ -14,10 +14,10 @@ KubeVela v1.0 启用了新的官网架构和文档维护方式，新增功能包
 
 ### 开始翻译
 
-![翻译流程](https://tva3.sinaimg.cn/large/ad5fbf65ly1gpcbwnnslzj20iy0k20uh.jpg)
+![翻译流程](https://tvax1.sinaimg.cn/large/ad5fbf65gy1gpdbriuraij20k20l6dhm.jpg)
 
 参与翻译活动的基本流程如下：
-- 任务领取：在 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1drZwWF2FWPCbb_HvofzXhZLjtSuhQ-dZgFIPy1tkiYM/edit#gid=2054087633) 登记并认领任务；
+- 任务领取：在 [KubeVela 官方文档翻译登记](https://shimo.im/sheets/QrCwcDqh8xkRWKPC/MODOC) 登记并认领任务；
 - 提交：参与人员提交 PR 等待 review；
 - 审阅：maintainer 审阅 PR；
 - 终审： 对 review 后的内容进行最后确认；
@@ -41,11 +41,11 @@ KubeVela v1.0 启用了新的官网架构和文档维护方式，新增功能包
 
 **Step1：任务浏览**
 
-在 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1drZwWF2FWPCbb_HvofzXhZLjtSuhQ-dZgFIPy1tkiYM/edit#gid=2054087633) 登记并浏览有哪些任务可以认领。
+在 [KubeVela 官方文档翻译登记](https://shimo.im/sheets/QrCwcDqh8xkRWKPC/MODOC) 登记并浏览有哪些任务可以认领。
 
 **Step2：任务领取**
 
-在 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1drZwWF2FWPCbb_HvofzXhZLjtSuhQ-dZgFIPy1tkiYM/edit#gid=2054087633) 表格中编辑并认领任务。注意：为保证质量，同一译者只能同时认领三个任务，完成后才可继续认领。
+在 [KubeVela 官方文档翻译登记](https://shimo.im/sheets/QrCwcDqh8xkRWKPC/MODOC) 表格中编辑并认领任务。注意：为保证质量，同一译者只能同时认领三个任务，完成后才可继续认领。
 
 **Step3：本地构建和预览**
 
