@@ -10,7 +10,7 @@ KubeVela v1.0 启用了新的官网架构和文档维护方式，新增功能包
 
 ## 活动流程
 
-本次活动主要在 [kubevela.io](https://github.com/oam-dev/kubevela.io) repo 下进行，报名参与和认领任务都在 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1drZwWF2FWPCbb_HvofzXhZLjtSuhQ-dZgFIPy1tkiYM/edit#gid=2054087633) 中（**请务必在表格中登记信息**）。
+本次活动主要在 [kubevela.io](https://github.com/oam-dev/kubevela.io) repo 下进行，报名参与和认领任务都在 [KubeVela 官方文档翻译登记](https://shimo.im/sheets/QrCwcDqh8xkRWKPC/MODOC) 中（**请务必在表格中登记信息**）。
 
 ### 开始翻译
 
