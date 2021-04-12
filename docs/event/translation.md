@@ -82,6 +82,13 @@ Docusaurus website is running at: http://localhost:3000/zh/
 
 翻译合格的文章将会 merge 到 [kubevela.io](https://github.com/oam-dev/kubevela.io) 的 master 分支进行发布。
 
+
+#### 格式要求
+
+- 所有的英文跟中文之间要有一个空格
+- 注意中英文标点符号
+- `PR` 命名规范 `Translate <翻译文件相对路径>`，如 `translate i18n/zh/docusaurus-plugin-content-docs/current/introduction.md`
+
 ## 活动主办
 
 本次活动由 KubeVela 社区发起，KubeVela 社区和云原生社区 OAM SIG 共同举办。
