@@ -92,8 +92,8 @@ Docusaurus website is running at: http://localhost:3000/zh/
 - 不会翻译的词汇可以不翻译，review的时候会查看。
 - 翻译完还是要自己先review一遍，不要出现遗漏段落。
 - Component、Workload、Trait 这些OAM/KubeVela 里面定义的专属概念不要翻译，我们也要加强这些词汇的认知。可以在一篇新文章最开始出现的时候用括号加上中文翻译。
-- 注意中英文标点符号
-- `PR` 命名规范 `Translate <翻译文件相对路径>`，如 `translate i18n/zh/docusaurus-plugin-content-docs/current/introduction.md`
+- 注意中英文标点符号。
+- `PR` 命名规范 `Translate <翻译文件相对路径>`，如 `translate i18n/zh/docusaurus-plugin-content-docs/current/introduction.md`。
 
 ## 活动主办
 
