@@ -83,17 +83,16 @@ Docusaurus website is running at: http://localhost:3000/zh/
 翻译合格的文章将会 merge 到 [kubevela.io](https://github.com/oam-dev/kubevela.io) 的 master 分支进行发布。
 
 
-#### 格式要求
+### 翻译要求
 
 - 数字和英文两边是中文要加空格。
-- KubeVela 统一写法。K 和 V大写。
-- 翻译完自己读一遍，要通顺，要能理解。不追求严格一致，可以意译。review的时候也会检验。
-- 你和您不要混用，咱们统一用 “你”。
-- 不会翻译的词汇可以不翻译，review的时候会查看。
-- 翻译完还是要自己先review一遍，不要出现遗漏段落。
-- Component、Workload、Trait 这些OAM/KubeVela 里面定义的专属概念不要翻译，我们也要加强这些词汇的认知。可以在一篇新文章最开始出现的时候用括号加上中文翻译。
+- KubeVela 统一写法。K 和 V 大写。
+- 翻译完请先阅读一遍，不要出现遗漏段落，保证文章通顺、符合中文阅读习惯。不追求严格一致，可以意译。review 的时候也会检验。
+- 你和您不要混用，统一使用用 **“你”**。
+- 不会翻译的词汇可以不翻译，可以在 PR 中说明，review 的时候会查看。
+- Component、Workload、Trait 这些 OAM/KubeVela 里面定义的专属概念不要翻译，我们也要加强这些词汇的认知。可以在一篇新文章最开始出现的时候用括号加上中文翻译。
 - 注意中英文标点符号。
-- `PR` 命名规范 `Translate <翻译文件相对路径>`，如 `translate i18n/zh/docusaurus-plugin-content-docs/current/introduction.md`。
+- `PR` 命名规范 `Translate <翻译文件相对路径>`，如 `Translate i18n/zh/docusaurus-plugin-content-docs/current/introduction.md`。
 
 ## 活动主办
 
