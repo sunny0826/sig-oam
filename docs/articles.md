@@ -6,9 +6,11 @@ description: OAM 系列文章
 
 | 标题 | 作者 | 发布日期 |
 | :--- | :---: | :---: |
-| [基于 KubeVela 与 Kubernetes 打造“无限能力”的开放 PaaS](https://mp.weixin.qq.com/s/frkBEwZSpNQstkwC6a4SUg) | 孙健波（天元） | 2020-03-02 |
-| [KubeVela：标准化的云原生平台构建引擎](https://mp.weixin.qq.com/s/68G4zlNgDSbUdZEVl-vkww) | 孙健波（天元） | 2020-01-26 |
-| [ArgoCD + KubeVela：以开发者为中心的 GitOps](https://mp.weixin.qq.com/s/_9wRzZnLFrWVS6ghSJGmrg) | 邓洪超、Ed Lee | 2020-01-08 |
+| [KubeVela 1.0 ：开启可编程式应用平台的未来](https://mp.weixin.qq.com/s/MHOsy8fRm92KdtXiZ2rpMw) | KubeVela 项目维护者 | 2021-04-12 |
+| [让云原生应用的交付变得更简单 | KubeVela v1.0 正式发布](https://mp.weixin.qq.com/s/mXUWBtWmsvX8bsnSoo90Mg) | 郭旭东 | 2021-04-09 |
+| [基于 KubeVela 与 Kubernetes 打造“无限能力”的开放 PaaS](https://mp.weixin.qq.com/s/frkBEwZSpNQstkwC6a4SUg) | 孙健波（天元） | 2021-03-02 |
+| [KubeVela：标准化的云原生平台构建引擎](https://mp.weixin.qq.com/s/68G4zlNgDSbUdZEVl-vkww) | 孙健波（天元） | 2021-01-26 |
+| [ArgoCD + KubeVela：以开发者为中心的 GitOps](https://mp.weixin.qq.com/s/_9wRzZnLFrWVS6ghSJGmrg) | 邓洪超、Ed Lee | 2021-01-08 |
 | [深入解读：KubeVela 与 PaaS 有何不同？](https://mp.weixin.qq.com/s/Ej_cXFgdhiWpMyjqHswauQ) | 邓洪超 | 2020-12-02 |
 | [阿里云在应用扩缩容下遇到的挑战与选型思考](https://mp.weixin.qq.com/s/S2vCI9ydp3vM26YRAwRVhw) | 炎寻、Andy Shi | 2020-11-30 |
 | [KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎](https://mp.weixin.qq.com/s/LauydAy1ngcDuZ3lhqrL6Q) | OAM 项目维护者 | 2020-11-18 |
